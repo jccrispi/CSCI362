@@ -1,4 +1,4 @@
-#!ceholder/bin/bash
+#!/bin/bash
 
 cat index.html > modified.html
 
